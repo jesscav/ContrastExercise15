@@ -1,0 +1,27 @@
+@import url(https://fonts.googleapis.com/css?family=Eczar:400,800,500,600,700);
+@import url(https://fonts.googleapis.com/css?family=Rubik+Mono+One);
+@import url(https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400italic,700);
+
+h1 {
+  color: #0E204C;
+  font-family: "Rubik Mono One", sans-serif;
+  text-align: center;
+  word-spacing: -10px;
+  font-size: 250%;
+}
+
+#contact {
+  text-align: center;
+  font-family: "Eczar", serif;
+  line-height: 115%;
+}
+
+h2 {
+  color: #274790;
+  font-family: "Libre Baskerville", sans-serif;
+  font-size: 140%;
+}
+
+#objective {
+
+}
